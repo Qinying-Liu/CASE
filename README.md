@@ -29,11 +29,11 @@ The code is assembled to [UniWTAL](https://github.com/Qinying-Liu/UniWTAL), whic
    We provide our pre-trained checkpoints in [checkpoints.zip](https://rec.ustc.edu.cn/share/ba014cd0-5f3a-11ee-9e84-ebc071ec19ed)
 
 <div align="center">
-<img src="figures/sota.png" width="100%">
+<img src="figures/sota.png" width="80%">
 </div>
 
 <div align="center">
-<img src="figures/exp.png" width="100%">
+<img src="figures/exp.png" width="80%">
 </div>
 
  ## References
