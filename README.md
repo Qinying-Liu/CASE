@@ -2,6 +2,10 @@
 
 The code is assembled to [UniWTAL](https://github.com/Qinying-Liu/UniWTAL), which implements multiple WTAL methods in a unified codebase.
 
+<div align="center">
+<img src="figures/framework.png" width="100%">
+</div>
+
 > **Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach** <br>
 > [Qinying Liu](https://scholar.google.com/citations?user=m8Wioy0AAAAJ), [Zilei Wang](https://scholar.google.com/citations?user=tMO7jm4AAAAJ), [Shenghai Rong](https://scholar.google.com/citations?user=A0_yGSoAAAAJ), [Junjie Li](https://scholar.google.com/citations?user=3fXVH5oAAAAJ), [Yixin Zhang](https://scholar.google.com/citations?user=F24AuKYAAAAJ)<br>
 > **ICCV2023** <br>
@@ -24,6 +28,13 @@ The code is assembled to [UniWTAL](https://github.com/Qinying-Liu/UniWTAL), whic
    ```
    We provide our pre-trained checkpoints in [checkpoints.zip](https://rec.ustc.edu.cn/share/ba014cd0-5f3a-11ee-9e84-ebc071ec19ed)
 
+<div align="center">
+<img src="figures/sota.png" width="100%">
+</div>
+
+<div align="center">
+<img src="figures/exp.png" width="100%">
+</div>
 
  ## References
 
