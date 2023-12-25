@@ -1,5 +1,10 @@
 # Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-foreground-and-background-1/weakly-supervised-action-localization-on-2)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-2?p=revisiting-foreground-and-background-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-foreground-and-background-1/weakly-supervised-action-localization-on-1)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-1?p=revisiting-foreground-and-background-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-foreground-and-background-1/weakly-supervised-action-localization-on)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on?p=revisiting-foreground-and-background-1)
+
+
 The code is assembled to [UniWTAL](https://github.com/Qinying-Liu/UniWTAL), which implements multiple WTAL methods in a unified codebase.
 
 <div align="center">
